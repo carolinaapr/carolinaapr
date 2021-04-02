@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @carolinaapr
-- 👀 I’m interested in Digital Economics, data analytics and 8 bit game production
-- 🌱 I’m currently learning python and JavaScript
-- 📫 How to reach me carolinaaprilia96@gmail.com
+# ekskul-sample-app
 
-<!---
-carolinaapr/carolinaapr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
